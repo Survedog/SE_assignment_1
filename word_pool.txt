@@ -1,0 +1,5 @@
+egg         달걀
+dragon      용
+cow         소
+relation    관계
+flour       밀가루
