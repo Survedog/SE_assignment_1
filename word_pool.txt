@@ -1,5 +1,5 @@
-egg         달걀        [ eɡ ]
-dragon      용          [ ˈdræɡən ]
-cow         소          [ kaʊ ]
-relation    관계        [ rɪˈleɪʃn ]
-flour       밀가루      [ ˈflaʊə(r) ]
+egg         달걀
+dragon      용
+cow         소
+relation    관계
+flour       밀가루
